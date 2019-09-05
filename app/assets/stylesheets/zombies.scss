@@ -1,0 +1,45 @@
+*{margin: 0 auto;}
+
+#principal{padding: 0;background-color:#989797;}
+#topo{background-color: #FFAB1F; width: 1350px; height: 70px;}
+#topo img{position: static; padding-top: 10px;}
+#logo{background-color: #FFAB1F;width: 1350px; height:100px;padding-bottom: 10px;}
+#logo img{;}
+#menu{padding-left: 470px; float: left; margin: 0; padding-top: 0px; padding-right: 0}
+#menu ol{list-style-type: none;}
+#menu ol li{float: left;padding-bottom: 0px; padding-top: 0px; padding-left: 30px; padding-right: 30px; height:30px;}
+#menu ol li a{color: white;text-decoration: none;padding: 20px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+transition: 2s; border-radius: 10px;}
+#menu ol li a:hover{color:gray; ;border-width: 100px; background-color:aqua; transition: 2s; border-radius: 10px;}
+
+#menu img{}
+#imgs{background-color: aliceblue;width: 1350px;}
+#img1{padding: 700px 100px 30px 100px;position: absolute;}
+#img1 a{color: aliceblue; padding:2px 5px 2px 5px; text-decoration: none;background-color:#7B91F7; transition: 2s; border-radius: 10px;position: absolute; margin:220px 50px 100px 40px;}
+#img1 a:hover{color: gray;background-color:aqua; transition: 2s; border-radius: 10px;font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+
+#img2{padding: 700px 100px 00px 580px;position: absolute;}
+#img2 a{color: aliceblue; padding:2px 5px 2px 5px; text-decoration: none;background-color:#7B91F7; transition: 2s; border-radius: 10px;position: absolute;margin:220px 50px 100px 75px;font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+#img2 a:hover{color: gray; background-color:aqua; transition: 2s; border-radius: 10px;}
+
+#img3{padding: 700px 100px 30px 1050px;}
+#img3 a{color: aliceblue;padding:2px 5px 2px 5px; text-decoration: none;background-color:#7B91F7; transition: 2s; border-radius: 10px;position: absolute;margin:220px 50px 100px 75px;font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";}
+#img3 a:hover{color: gray; background-color:aqua; transition: 2s; border-radius: 10px;}
+
+#conteudo{background-color: #FFFFFF; width: 1250px; height: 600px; font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";text-align: center;padding-top: 10px; padding-left: 50px; padding-right:50px; padding-bottom: 100px;}
+
+#conteudo img{margin: 10px; border-radius: 20px; float: right;}
+#conteudo h1{margin: 10px; border-radius: 20px; float: left}
+#conteudo h3{padding: 10px;}
+#conteudo td{border:5px solid orange;}
+#conteudo th{border:5px solid orange;}
+#space{padding-top: 660px;}
+#contato{font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";background-color: azure; width: 1350px; height:500px; text-align:left}
+#contato h3{background-color: white;padding: 100px 50px 10px 50px;font-size: 30px;}
+#contato table{text-align: left; margin: 10px}
+#contato p{width: 200px;}
+#imgs2{position: absolute;width: 200px;}
+#rodape{width: 1350px; height: 40px; background-color: aliceblue;}
+#rodape p{text-align: center;padding-top: 10px; letter-spacing: 3px;}
+
+
